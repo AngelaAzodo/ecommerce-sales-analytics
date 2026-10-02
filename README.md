@@ -32,6 +32,14 @@ Key Findings
 *Revenue Trajectory: Time-series tracking highlights distinct peak sales months, revealing important seasonal trends.
 *Transaction Concentration: A small tier of high value orders heavily influences overall revenue, while routine transactions make up the bulk of volume.
 
+Key Insights & Recommendations
+ Revenue & Sales Trends: Analysis of monthly and quarterly data identified peak sales periods and recurring revenue drivers, highlighting high-performing quarters that can guide future inventory planning.
+ Product Performance: Evaluated top tier products versus underperforming categories, providing clear direction on which inventory items to prioritize for promotional campaigns.
+ Transaction Anomalies: Identified and flagged irregular transactional entries (such as duplicate entries and negative values during data cleaning), establishing cleaner reporting pipelines.
+ Strategic Recommendations:
+ Focus marketing and discount budgets on top performing seasonal cycles to maximize conversion rates.
+ Re-evaluate or phase out low margin, slow moving product categories to optimize operational efficiency.
+
 
 👤 Author
 Angela Azodo Chinecherem 
